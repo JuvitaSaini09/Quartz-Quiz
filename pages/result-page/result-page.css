@@ -1,0 +1,48 @@
+@import url(/pages/color.css);
+@import url(/style.css);
+@import url(/pages/quiz-page/quiz-page.css);
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Condensed&display=swap');
+
+:root{
+    --green: rgb(68, 187, 68);
+    --red:rgb(240, 57, 57);
+    
+}
+
+.result-heading,.title{
+    text-align: center;
+    margin-bottom:0.5rem;
+}
+
+.green-bg{
+  background-color:var(--green) ;
+}
+
+.red-bg{
+    background-color:var(--red) ;
+}
+
+.optionss button {
+    font-size: 18px;
+    width: 90%;
+    height: 2rem;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    border: 1px solid var(--grey);
+}
+
+.ques{
+    margin-top:2rem;
+}
+
+.btn-next .btn-restart{
+    font-weight: 600;
+    color:var(--pink-primary2);
+    background-color: var(--white);
+    border:1px solid var(--pink-primary2);
+}
+
+.btn-next .btn-restart:hover{
+    background-color: var(--pink-light2);
+}
+
