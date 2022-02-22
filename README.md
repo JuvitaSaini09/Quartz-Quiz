@@ -1,6 +1,7 @@
 # Quartz-Quiz
 
-Quartz Quiz is a quiz web app .You can have fun and test your knowledge with this.It is made uisng HTML and CSS.
+Quartz Quiz is a web app .Test your knowledge with Quartz Quiz.
+```Technology used : HTML and CSS```
 
 
 ## Screens ##
